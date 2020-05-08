@@ -8,7 +8,7 @@
 * 重启后安装wallet，搞定
 
 
-本项目的Xposed Repo [](https://repo.xposed.info/module/com.kiritoxkiriko.opaccounthook)
+本项目的 [Xposed Repo](https://repo.xposed.info/module/com.kiritoxkiriko.opaccounthook)
 
 
 
