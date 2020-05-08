@@ -8,7 +8,7 @@
 * 重启后安装wallet，搞定
 
 目前已知的bug：
-* 无法双击直接调出公交卡，怀疑缺少底层文件，暂未发现解决办法
+* 无法设置双击直接调出公交卡，怀疑缺少底层文件，暂未发现解决办法
 
 
 本项目的 [Xposed Repo](https://repo.xposed.info/module/com.kiritoxkiriko.opaccounthook)
