@@ -21,10 +21,11 @@
 
 ## 注意事项
 1. 请不要更新OnePlus Account应用，更新后xposed模块会失效，如已更新请先在系统设置里卸载更新
-2. 重启设备不会使双击电源键调出公交卡失效，但重装Wallet应用会失效。重复步骤5，再次运行adb命令即可恢复
-3. 理论上Wallet应用的版本不影响模块效果，但一切以测试为准 (Relese中的3.4.1版本亲测可用)
-4. 如果需要国内一加账户的同步功能，可以在登录国内账户后安装 [OPSyncCenter.apk](https://github.com/kiritoxkiriko/HookOPAccount/releases/download/1.2.1/OPSyncCenter.apk)
-5. 欢迎转载到各大论坛，但请注明出处
+2. 模块里覆盖替换的Account版本不支持暗黑模式，使用时要调成非暗色主题，不然会闪退。
+3. 重启设备不会使双击电源键调出公交卡失效，但重装Wallet应用会失效。重复步骤5，再次运行adb命令即可恢复
+4. 理论上Wallet应用的版本不影响模块效果，但一切以测试为准 (Relese中的3.4.1版本亲测可用)
+5. 如果需要国内一加账户的同步功能，可以在登录国内账户后安装 [OPSyncCenter.apk](https://github.com/kiritoxkiriko/HookOPAccount/releases/download/1.2.1/OPSyncCenter.apk)
+6. 欢迎转载到各大论坛，但请注明出处
 
 
 
