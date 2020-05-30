@@ -2,7 +2,7 @@
 ## 简介
 一个Xposed模块 HookOPAccount  
 让一加8/8pro 氧OS使用一加钱包 (仅在本人的1+8pro上测试过，理论上1+8全系通用，1+7T有人尝试也成功了)
-请与此[magisk模块](https://github.com/kiritoxkiriko/HookOPAccount/releases/download/1.2/OOSCNAccount.zip)配合使用
+请与此 [magisk模块](https://github.com/kiritoxkiriko/HookOPAccount/releases/download/1.2/OOSCNAccount.zip) 配合使用
 
 ## 步骤
 1. 退出已登录的一加账户
