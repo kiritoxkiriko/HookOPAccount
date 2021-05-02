@@ -1,4 +1,6 @@
 # HookOPAccount
+**本人已经不再使用1+8p，故该项目停止维护**
+**已有非root方式实现类似功能，可参考[issue#5](https://github.com/kiritoxkiriko/HookOPAccount/issues/5)**
 ## 简介
 一个Xposed模块 HookOPAccount  
 让一加8/8pro 氧OS使用一加钱包 (仅在本人的1+8pro上测试过，理论上1+8全系通用，1+7T有人尝试也成功了)
